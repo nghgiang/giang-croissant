@@ -1,0 +1,28 @@
+body {
+  background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+h1,
+p {
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+}
+
+footer {
+  text-align: center;
+}
+.link-page {
+  font-family: "Comfortaa", cursive;
+  padding: 0 20px;
+}
+
+a:hover {
+  color: red;
+}
+
+img {
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
